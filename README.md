@@ -1,7 +1,7 @@
 
 ***
 
-**Official repository of the Robotek Prime team from Kazakhstan. It contains all the engineering materials of our self-driven vehicle's model participating in the WRO Future Engineers competition in the season of 2023.**
+**Official repository of the XLNC Prime team from Kazakhstan. It contains all the engineering materials of our self-driven vehicle's model participating in the WRO Future Engineers competition in the season of 2025.**
 
 ***
 
