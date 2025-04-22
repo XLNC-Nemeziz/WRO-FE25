@@ -7,7 +7,7 @@
 
 <div align=center>
 
-![logo](./img/xCellence.jpg)
+![logo](./Images/README_photos/xCellence.jpg)
 
 </div>
 
