@@ -33,7 +33,7 @@
 
 ***
 ## Our vehicle: 
-![vehph](.Images/Robot_photos/Car_components.PNG)
+![vehph](Images/Robot_photos/Car_components.PNG)
 We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
 
 A full list of all the components (not including the camera) can be found here: [Part List](Part_list.pdf)
