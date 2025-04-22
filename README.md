@@ -33,7 +33,7 @@
 
 ***
 ## Our vehicle: 
-![vehph](.Images/Robot_photos/Car_components.png)
+![vehph](.Images/Robot_photos/Car_components.PNG)
 We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
 
 A full list of all the components (not including the camera) can be found here: [Part List](Part_list.pdf)
@@ -75,7 +75,7 @@ Gyro Sensor: The gyro sensor plays a pivotal role in maintaining proper alignmen
 
 The PID regulator operates in a continuous loop throughout the program, ensuring the vehicle remains aligned and on the intended path, supporting its autonomous navigation capabilities.
 
-Pixy v2 Camera: A camera is used to detect and differentiate obstacles during the obstacle round. Custom made 3D Print Models for the [cover](models/pixy_2_cover.stl) and the [case](models/pixy_2_case.stl) for the camera can be found in the corresponding links.
+Pixy v2 Camera: A camera is used to detect and differentiate obstacles during the obstacle round. Custom made 3D Print Models for the [cover](Models/Pixy2_cover.stl) and the [case](Models/Pixy2_case.stl) for the camera can be found in the corresponding links.
 
 ### Power Management
 The power for the EV3 Brick and the whole vehicle comes from a rechargeable 10V Lithium Battery. Power management within the EV3 brick consists of multiple switching regulations which are tightly controlled and interlinked in order to boot the electronic circuit correctly.
