@@ -120,7 +120,7 @@ Once the obstacle coordinates are collected, we import this data into software t
 With the optimized obstacle-avoidance trajectory in hand, we proceed to integrate it into our robot's program. Our program includes a regulator designed to interpret and act upon the trajectory data.
 This regulator operates in real-time, continuously assessing the robot's position in relation to the obstacles and adjusting its path accordingly. By using the trajectory data as a reference, the regulator guides the robot in a manner that ensures smooth and efficient obstacle avoidance. Additionally, a proportional-integral-derivative (PID) controller is employed to further fine-tune and enhance the robot's responsiveness when navigating around obstacles.
 
-![program](./Images/README_photos/Program.jpeg)
+![program](./Images/README_photos/Program.jpg)
 
 ### Pseudo Code
 
