@@ -7,7 +7,7 @@
 
 <div align=center>
 
-![logo](./img/banner2.png)
+![logo](./img/xCellence.jpg)
 
 </div>
 
@@ -33,14 +33,14 @@
 
 ***
 ## Our vehicle: 
-![vehph](./v-photos/Car_components.PNG)
+![vehph](.Images/README_photos/Car_components.png)
 We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
 
-A full list of all the components (not including the camera) can be found here: [Part List](models/part-list.pdf)
+A full list of all the components (not including the camera) can be found here: [Part List](Part_list.pdf)
 
-A 3D model of the robot made in Studio 2.0 can be found here: [3D Model](models/FE-Robot.io)
+A 3D model of the robot made in Studio 2.0 can be found here: [3D Model](Models/Robot.io)
 
-The final program/code for our autonomous vehicle can be found here: [Program](src/FE_INTERNATIONAL.ev3)
+The final program/code for our autonomous vehicle can be found here: [Program](Program/Program.ev3)
 ***
 
 ## Mobility Management
@@ -49,7 +49,7 @@ The final program/code for our autonomous vehicle can be found here: [Program](s
 
 Motor selection is a crucial component of our vehicle's autonomous navigation system. The Lego MINDSTORMS EV3 set provides two distinct motor options: Large Motors and Medium Motors. In making our selection, we considered key factors such as rotation speed, torque, and encoder accuracy.
 
-![extract](./img/text.png)
+![extract](./Images/README_photos/text.png)
 
 The Large Motor offers substantial power, however, the Medium Motor, while less powerful, is smaller and lighter. This compact size facilitates quicker responses and conserves space within our vehicle design.
 Given the constraints of our compact vehicle dimensions (300x200x300mm) and the emphasis on high-speed navigation, we prioritized the Medium Motor for both the steering and driving mechanisms. Our vehicle employs three Medium motors for its movement system: one for steering and two for driving.
@@ -58,7 +58,7 @@ Given the constraints of our compact vehicle dimensions (300x200x300mm) and the 
 
 The steering mechanism, located in the front, utilizes smaller wheels, while the driving mechanism at the rear incorporates larger Lego Technic wheels placed closely together.
 The placement of larger wheels at the rear serves multiple practical purposes. Larger wheels cover more ground per revolution, resulting in higher linear speed, which aligns with our priority for speed in the competition. Additionally, positioning the larger rear wheels as close to each other as possible, known as a "narrow rear track," mitigates the absence of a differential system. A narrow rear track minimizes the difference in wheel paths during turns, enhancing the vehicle's maneuverability and reducing wheel scrub.
-![render](./img/robot.render.jpeg)
+![render](./Images/README_photos/robot.render.jpeg)
 ***
 
 ## Power and Sense Management
@@ -83,21 +83,21 @@ To protect the EV3 brick from short circuit, 3 poly switches are included, one f
 
 Power Schemes for every electronic part of the vehicle can be found here:
 
-[Color Sensor](schemes/color-sensor,pdf)
+[Color Sensor](Schemes/color-sensor.pdf)
 
-[Gyro Sensor](schemes/gyro-sensor.pdf)
+[Gyro Sensor](Schemes/gyro-sensor.pdf)
 
-[Medium Motor](schemes/medium-motor.pdf)
+[Medium Motor](Schemes/medium-motor.pdf)
 
-[Pixy v2](schemes/pixy2_schematic-2.2.pdf)
+[Pixy v2](Schemes/pixy2_schematic-2.2.pdf)
 
-[Ultrasonic Sensor](schemes/ultrasonic-sensor.pdf)
+[Ultrasonic Sensor](Schemes/ultrasonic-sensor.pdf)
 
-[EV3 P-Brick](schemes/programmable-brick.pdf)
+[EV3 P-Brick](Schemes/programmable-brick.pdf)
 
-[Rechargeable Battery](schemes/rechargeable-battery.pdf)
+[Rechargeable Battery](Schemes/rechargeable-battery.pdf)
 
-[Ultrasonic Sensor](schemes/ultrasonic-sensor.pdf)
+[Ultrasonic Sensor](Schemes/ultrasonic-sensor.pdf)
 
 ***
 
@@ -110,43 +110,41 @@ Effective obstacle management is a critical aspect of our autonomous self-drivin
 Our robot relies on a Pixy v2 Camera to detect obstacles, differentiating between red and green objects with precision. The camera's built-in plugin allows for the recognition of color-based signatures, making it a versatile and efficient tool for identifying obstacles.
 To ensure accurate color detection, we employ PixyMon software to calibrate the camera. This calibration process fine-tunes the camera's color recognition capabilities, allowing our robot to precisely distinguish between red and green obstacles on the competition field.
 
-![pixymon](./img/pixymon.jpeg)
+![pixymon](./Images/README_photos/pixymon.jpeg)
 
 ### Trajectory Calibration
 Calibrating the robot's trajectory is a vital step in ensuring it safely navigates around obstacles. This process involves placing obstacles in designated locations on the competition field and guiding the robot to drive around them. As the robot maneuvers around obstacles, we record the coordinates of these obstacles in a table for later analysis and fine-tuning.
 Once the obstacle coordinates are collected, we import this data into software tools such as Microsoft Excel or Google Sheets. In these programs, we create graphical representations, which often take the form of exponential functions. This function encapsulates the ideal path for the robot to follow when circumventing obstacles.
 
-![graph](./img/graph.jpeg)
+![graph](./Images/README_photos/graph.jpeg)
 
 ### Integration into the Robot's Program
 With the optimized obstacle-avoidance trajectory in hand, we proceed to integrate it into our robot's program. Our program includes a regulator designed to interpret and act upon the trajectory data.
 This regulator operates in real-time, continuously assessing the robot's position in relation to the obstacles and adjusting its path accordingly. By using the trajectory data as a reference, the regulator guides the robot in a manner that ensures smooth and efficient obstacle avoidance. Additionally, a proportional-integral-derivative (PID) controller is employed to further fine-tune and enhance the robot's responsiveness when navigating around obstacles.
 
-![program](./img/program.jpeg)
+![program](./Images/README_photos/program.jpeg)
 
 ### Pseudo Code
 
-https://github.com/robotekprime/futureengineers2023/blob/15b467b57086e904b781a81131f443dc3aff1337/src/pseudocode.py#L1-L30 
+https://github.com/XLNC-Prime/WRO-FE25/blob/48fdc175d8f31680ba57e6de24ae58fa3fdfe8bc/Program/Pseudocode.py#L1-L30 
 
 ***
 
 ## Photos
 
 ### Vehicle Photos
-![vehph](./v-photos/Car_funny.PNG)
-![vehph](./v-photos/1.jpg)
-![vehph](./v-photos/2.jpg)
-![vehph](./v-photos/3.jpg)
-![vehph](./v-photos/4.jpg)
-![vehph](./v-photos/5.jpg)
-![vehph](./v-photos/6.jpg)
+![vehph](./Images/Robot_photos/Car_funny.png)
+![vehph](./Images/Robot_photos/1.jpg)
+![vehph](./Images/Robot_photos/2.jpg)
+![vehph](./Images/Robot_photos/3.jpg)
+![vehph](./Images/Robot_photos/4.jpg)
+![vehph](./Images/Robot_photos/5.jpg)
+![vehph](./Images/Robot_photos/6.jpg)
 
 ### Team Photos
 
-![teamph2](./t-photos/t-official.jpeg)
-![teamph](./t-photos/t-funny.jpeg)
-
-
+![teamph2](./Images/Team_photos/t-official.jpeg)
+![teamph](./Images/Team_photos/t-funny.jpeg)
 
 ***
 
