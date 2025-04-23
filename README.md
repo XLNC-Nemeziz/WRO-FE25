@@ -132,12 +132,12 @@ https://github.com/XLNC-Prime/WRO-FE25/blob/48fdc175d8f31680ba57e6de24ae58fa3fdf
 
 ### Vehicle Photos
 ![vehph](./Images/Robot_photos/Car_funny.png)
-![vehph](./Images/Robot_photos/1.jpg)
-![vehph](./Images/Robot_photos/2.jpg)
-![vehph](./Images/Robot_photos/3.jpg)
-![vehph](./Images/Robot_photos/4.jpg)
-![vehph](./Images/Robot_photos/5.jpg)
-![vehph](./Images/Robot_photos/6.jpg)
+![vehph](./Images/Up.jpg)
+![vehph](./Images/down.jpg)
+![vehph](./Images/right.jpg)
+![vehph](./Images/left.jpg)
+![vehph](./Images/back.jpg)
+![vehph](./Images/front.jpg)
 
 ### Team Photos
 
