@@ -141,7 +141,7 @@ https://github.com/XLNC-Prime/WRO-FE25/blob/48fdc175d8f31680ba57e6de24ae58fa3fdf
 
 ### Team Photos
 
-![teamph2](./Images/Team_photos/TEAM_PHOTO.jpg
+![teamph2](./Images/Team_photos/TEAM_PHOTO.jpg)
 ![teamph](./Images/Team_photos/TEAM_FUNNY_PHOTO.jpg)
 
 ***
