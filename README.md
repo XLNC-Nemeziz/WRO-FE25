@@ -38,7 +38,7 @@ We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and 
 
 A full list of all the components (not including the camera) can be found here: [Part List](part_list.pdf)
 
-A 3D model of the robot made in Studio 2.0 can be found here: [3D Model](Models/FE_Robotblack.io)
+A 3D model of the robot made in Studio 2.0 can be found here: [3D Model](Models/FE-Robotblack.io)
 
 The final program/code for our autonomous vehicle can be found here: [Program](Program/Program.ev3)
 ***
