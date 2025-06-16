@@ -46,6 +46,8 @@ A full list of all the components (not including the camera) can be found here: 
 
 A 3D model of the robot made in Studio 2.0 can be found here: [3D Model](Models/FE-Robotblack.io)
 
+Our full research on camera placement and detection efficiency is described here: [Research](Pixymon-research/README.md)
+
 The final program/code for our autonomous vehicle can be found here: [Program](Program/Program.ev3)
 ***
 
