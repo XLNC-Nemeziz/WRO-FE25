@@ -66,7 +66,7 @@ Given the constraints of our compact vehicle dimensions (300x200x300mm) and the 
 
 The steering mechanism, located in the front, utilizes smaller wheels, while the driving mechanism at the rear incorporates larger Lego Technic wheels placed closely together.
 The placement of larger wheels at the rear serves multiple practical purposes. Larger wheels cover more ground per revolution, resulting in higher linear speed, which aligns with our priority for speed in the competition. Additionally, positioning the larger rear wheels as close to each other as possible, known as a "narrow rear track," mitigates the absence of a differential system. A narrow rear track minimizes the difference in wheel paths during turns, enhancing the vehicle's maneuverability and reducing wheel scrub.
-![render](./Images/Robot_photos/Robot.jpeg)
+![render](Images/Robot_photos/FE-Robotblack.png)
 ***
 
 ## Power and Sense Management
