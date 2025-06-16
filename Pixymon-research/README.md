@@ -19,23 +19,23 @@ We focused on two positions:
 We also experimented with different heights (15 cm and 19 cm) and tilt angles (45°, 55°, and 60°).
 
 <div align=center>
- <img src="C:\Users\User\Desktop\pixy2research\Images\CameraResearch\left.jpg" height="350">
- <img src="C:\Users\User\Desktop\pixy2research\Images\CameraResearch\estimatedfov.png" height="350">
+ <img src="Pixymon-research/Images/left.jpg" height="350">
+ <img src="Pixymon-research/Images/estimatedfov.png" height="350">
 </div>
 <div align=center>
  Rear mount view (left), estimated FOV (right)
 </div>
 
 <div align=center>
- <img src="C:\Users\User\Desktop\pixy2research\Images\CameraResearch\pixymonrearview.png" height="350">
+ <img src="Pixymon-research/Images/pixymonrearview.png" height="350">
 </div>
 <div align=center>
  PixyMon rear-mounted camera view of red and green pillars
 </div>
 
 <div align=center>
- <img src="Images/CameraResearch/cameracenterside.png" height="350">
- <img src="Images/CameraResearch/pixymoncenter.png" height="350">
+ <img src="Pixymon-research/Images/cameracenterside.png" height="350">
+ <img src="Pixymon-research/Images/pixymoncenter.png" height="350">
 </div>
 <div align=center>
  Center mount view (left), PixyMon center view (right)
@@ -107,7 +107,7 @@ We ran the robot 10 times for each configuration with identical code, route, and
 
 <h2> Graph: </h2>
 <div align="center">
- <img src="Images/CameraResearch/graphsuccesrate.jpeg" height="400">
+ <img src="Pixymon-research/Images/graphsuccesrate.jpeg" height="400">
 </div>
 <div align="center">
  Success rate for different camera setups
