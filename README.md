@@ -155,9 +155,9 @@ https://github.com/XLNC-Prime/WRO-FE25/blob/48fdc175d8f31680ba57e6de24ae58fa3fdf
 
 ## Performance Videos
 
-Open Challenge: https://youtube.com/shorts/IKujfMRnj0c?si=KcqOzKC9__rHpE8p
+Open Challenge: [https://youtube.com/shorts/IKujfMRnj0c?si=KcqOzKC9__rHpE8p](https://youtu.be/4B-VcS1g8ug?si=iMcRCpIipyHeDZ9Z)
 
-Obstacle Round Challenge: https://youtube.com/shorts/YYTXihWzlCA?si=PMUPEU1kPHSlTedE
+Obstacle Round Challenge: [https://youtube.com/shorts/YYTXihWzlCA?si=PMUPEU1kPHSlTedE](https://youtu.be/y-L3OCiLIGQ?si=TVY-VJYJtVkHgkoL)
 ***
 
 
